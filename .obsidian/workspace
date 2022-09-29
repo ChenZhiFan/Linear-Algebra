@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "作业/第4次作业.md",
-            "mode": "source",
+            "file": "知识点/2. 矩阵及其运算.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 187.5,
-    "collapsed": true
+    "width": 187.5
   },
   "right": {
     "id": "f2d6642b4e79db9f",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业/第4次作业.md",
+                "file": "知识点/2. 矩阵及其运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业/第4次作业.md",
+                "file": "知识点/2. 矩阵及其运算.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业/第4次作业.md"
+                "file": "知识点/2. 矩阵及其运算.md"
               }
             }
           },
@@ -151,20 +150,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 185.5,
-    "collapsed": true
+    "width": 172.5
   },
-  "active": "ea5baffa9c8d8237",
+  "active": "0048ce28698a8c38",
   "lastOpenFiles": [
     "知识点/2. 矩阵及其运算.md",
     "知识点/1. 行列式.md",
     "作业/第4次作业.md",
+    "作业/第3次作业.md",
+    "作业/第4次作业.pdf",
     "作业/未命名.md",
     "作业/任务.md",
     "作业/第1次作业.md",
-    "作业/第3次作业.md",
     "作业/第2次作业.md",
-    "2022-09-23.md",
-    "知识点/T.pdf"
+    "2022-09-23.md"
   ]
 }
