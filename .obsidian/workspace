@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/2. 矩阵及其运算.md",
+            "file": "作业/第5次作业.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/2. 矩阵及其运算.md",
+                "file": "作业/第5次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识点/2. 矩阵及其运算.md",
+                "file": "作业/第5次作业.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/2. 矩阵及其运算.md"
+                "file": "作业/第5次作业.md"
               }
             }
           },
@@ -150,19 +150,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 172.5
+    "width": 172.5,
+    "collapsed": true
   },
   "active": "0048ce28698a8c38",
   "lastOpenFiles": [
     "知识点/2. 矩阵及其运算.md",
+    "知识点/3. 矩阵的初等变换与线性方程组.md",
+    "作业/第5次作业.md",
     "知识点/1. 行列式.md",
     "作业/第4次作业.md",
     "作业/第3次作业.md",
     "作业/第4次作业.pdf",
-    "作业/未命名.md",
     "作业/任务.md",
     "作业/第1次作业.md",
-    "作业/第2次作业.md",
-    "2022-09-23.md"
+    "作业/第2次作业.md"
   ]
 }
